@@ -17,10 +17,14 @@ section {
 .pizza{
     background-attachment: fixed;
     background-image: url(../imagens/rei.png);
+    background-position: center right;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .pizza > p{
     font-weight: bolder;
     text-align: center;
+    
 
 }
 .pizza > h2{
@@ -36,9 +40,9 @@ h1{
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
 footer >p{
-    background-color: #F2A922;
+    background-color: black;
     text-align: center;
-    color: #323E40;
+    color: white;
     padding: 10px;
     border-radius: 10px;
 }
