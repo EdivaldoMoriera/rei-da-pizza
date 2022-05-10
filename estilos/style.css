@@ -1,7 +1,26 @@
+main{
+    background-color: black;
+}
+h2{
+    color: #F2A922;
+    text-align: center;
+}
 header > h1{
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.83), rgb(225, 255, 0));
+    background-image: linear-gradient(to right,#F2A922, #732002);
     color: rgba(210, 210, 74, 0.672);
     text-align: center;
+    color: #323E40;
+}
+.hamburger > h1{
+    color: #F2A922;
+    
+}
+.pizza{
+    background-image: url(../imagens/rei.png);
+    background-position: right bottom;
+    background-attachment: fixed;
+    background-repeat: no-repeat;/*imagem nao se repete*/
+    background-size: cover;
 }
 
 
@@ -13,7 +32,7 @@ footer > p{
     padding: 10px;
 
 }
-main > h1{
+ section> h1{
     text-align: center;
 }
 main> p {
