@@ -17,12 +17,14 @@ header{
     border-radius: 10px  10px;
     padding-bottom: 10px;
 }
-h1, h2  {
+.pizza> h2  {
     text-align: center; 
-    min-height: 100v; 
+    min-height: 97v; 
 }
-section > h2{   
-    margin: auto;
+.pizza >h1{
+    text-align: center;
+}
+
 
 
     
