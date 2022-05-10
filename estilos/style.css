@@ -1,11 +1,11 @@
+*{
+    min-height: 97vh;
+}
 header{
     background-image: linear-gradient(to right, #F2A922,#D9501E );
     box-shadow: inset 6px 6px 13px rgba(0, 0, 0, 0.583);
     border-radius: 10px;   
 
-}
-header > h1 {
-    te
 }
 
 .pizza{
