@@ -1,4 +1,6 @@
-
+body{
+    min-height: 100v;
+}
 header{
     background-image: linear-gradient(to right, #F2A922,#D9501E );
     box-shadow: inset 6px 6px 13px rgba(0, 0, 0, 0.583);
@@ -15,7 +17,7 @@ header{
     background-size: cover;
     background-attachment: fixed;
     border-radius: 10px  10px;
-    min-height: 97vh;
+    padding-bottom: 10px;
 }
 h1, h2  {
     text-align: center;  
