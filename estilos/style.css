@@ -19,6 +19,7 @@ section {
 .pizza > p{
     font-weight: bolder;
     text-align: center;
+    font-size: 1.2em;
 
 }
 .pizza > h2{
