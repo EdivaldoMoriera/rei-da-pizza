@@ -1,3 +1,8 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-size: 1em;
+}
 main{
     background-color: black;
 }
@@ -21,6 +26,7 @@ header > h1{
     background-attachment: fixed;
     background-repeat: no-repeat;/*imagem nao se repete*/
     background-size: cover;
+    padding-left: 30px;
 }
 
 
