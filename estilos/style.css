@@ -1,6 +1,4 @@
-body{
-    min-height: 100v;
-}
+
 header{
     background-image: linear-gradient(to right, #F2A922,#D9501E );
     box-shadow: inset 6px 6px 13px rgba(0, 0, 0, 0.583);
@@ -20,7 +18,8 @@ header{
     padding-bottom: 10px;
 }
 h1, h2  {
-    text-align: center;  
+    text-align: center; 
+    min-height: 100v; 
 }
 section > h2{   
     margin: auto;
