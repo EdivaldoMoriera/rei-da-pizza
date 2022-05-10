@@ -31,7 +31,10 @@ section {
 
 }
 .bebidas{
-    
+    background-color: #D9501E;   
+}
+.ham{
+    background-color: #F2A922;
 }
 h1{
     text-align: center;
@@ -40,7 +43,7 @@ h1{
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
 footer >p{
-    background-color: black;
+    background-color: rgba(54, 59, 47, 0.692);
     text-align: center;
     color: white;
     padding: 10px;
