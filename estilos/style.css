@@ -24,11 +24,14 @@ section {
 .pizza > p{
     font-weight: bolder;
     text-align: center;
-    font-size: 0.9rem;
+    font-size: 1.2rem;
     margin-right: 10px;
     margin-right: 10px;
     
 
+}
+.bebidas{
+    
 }
 h1{
     text-align: center;
