@@ -24,14 +24,9 @@ section {
 .pizza > p{
     font-weight: bolder;
     text-align: center;
+    font-size: 0.9rem;
     
 
-}
-.pizza > h2{
-   height: 100%;
-    margin: auto;
-    text-align: center;
-    color: #323E40;
 }
 h1{
     text-align: center;
