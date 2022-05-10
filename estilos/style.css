@@ -18,5 +18,11 @@ header{
     min-height: 97vh;
 }
 h1, h2  {
-    text-align: center;
+    text-align: center;  
+}
+section > h2{   
+    margin: auto;
+
+
+    
 }
