@@ -22,4 +22,6 @@ h1{
     background-image: url(../imagens/rei.png);
     border-radius: 10px;
     background-attachment: fixed;
+    padding-bottom: 15px;
+    padding-top: 5px;
 }
