@@ -9,7 +9,7 @@ main{
  .pizza{
     color: #F2A922;
     text-align: center;
-    min-width: 100vh;
+    min-width: 97vh;
 }
 header > h1{
     background-image: linear-gradient(to right,#F2A922, #732002);
