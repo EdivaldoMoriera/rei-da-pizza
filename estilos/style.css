@@ -1,47 +1,24 @@
-*{
-    margin: 0px;
-    padding: 0px;
-    font-size: 1em;
+header{
+    background-image: linear-gradient(to right, #F2A922,#D9501E );
+    box-shadow: inset 6px 6px 13px rgba(0, 0, 0, 0.583);
+    border-radius: 10px;   
+
 }
-main{
-    background-color: black;
+header > h1 {
+    te
 }
- .pizza{
-    color: #F2A922;
-    text-align: center;
-    min-width: 98vh;
-}
-header > h1{
-    background-image: linear-gradient(to right,#F2A922, #732002);
-    color: rgba(210, 210, 74, 0.672);
-    text-align: center;
-    color: #323E40;
-}
-.hamburger > h1{
-    color: #F2A922;
-    
-}
+
 .pizza{
+
+    height: 98vh;
+    background-color: black;
     background-image: url(../imagens/rei.png);
-    background-position: right bottom;
-    background-attachment: fixed;
-    background-repeat: no-repeat;/*imagem nao se repete*/
+    background-position: center;
+    background-repeat: no-repeat;
     background-size: cover;
-    padding-left: 30px;
+    background-attachment: fixed;
+    border-radius: 10px  10px;
 }
-
-
-footer > p{
-    font-family: 'Courier New', Courier, monospace;
-    color: white;
-    font-weight: bold;
-    background-color: rgba(0, 0, 0, 0.62);
-    padding: 10px;
-
-}
- section> h1{
+h1, h2  {
     text-align: center;
-}
-main> p {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
