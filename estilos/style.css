@@ -18,3 +18,8 @@ h1{
     font-weight: bolder;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
+.pizza{
+    background-image: url(../imagens/rei.png);
+    border-radius: 10px;
+    background-attachment: fixed;
+}
