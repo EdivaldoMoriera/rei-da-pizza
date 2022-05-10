@@ -21,4 +21,11 @@ h1{
     font-weight: bolder;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
+footer >p{
+    background-color: #F2A922;
+    text-align: center;
+    color: #323E40;
+    padding: 10px;
+    border-radius: 10px;
+}
  
