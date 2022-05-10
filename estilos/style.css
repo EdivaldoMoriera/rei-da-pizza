@@ -10,6 +10,8 @@ section {
     padding-top: 10px;
     border-radius: 10px;
     position: relative;
+    box-shadow: 0px 7px 7px black;
+
 
 }
 .pizza{
@@ -19,7 +21,6 @@ section {
 .pizza > p{
     font-weight: bolder;
     text-align: center;
-    font-size: 1.2em;
 
 }
 .pizza > h2{
