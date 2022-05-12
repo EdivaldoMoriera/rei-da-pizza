@@ -9,11 +9,12 @@ header{
     text-align: center;
 }
   section> p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 0.9em;
     font-weight: bolder;
-    text-align: center;
-/*margin-bottom: 20px;*/
-    color:rgba(245, 245, 245, 0.625)
+    color: teal;
+    text-align: justify;
+    margin-left: 20px;
   }
   section{
       padding: 10px;
@@ -52,9 +53,9 @@ h1{
 }
 h5{
     font-weight: bolder;
-    text-align: center;
-    margin-bottom: 20px;
-
+    margin-left: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-bottom: 20px;
 }
 footer >p{
     background-color: rgba(54, 59, 47, 0.692);
