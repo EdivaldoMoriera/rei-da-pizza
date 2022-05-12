@@ -37,6 +37,11 @@ header{
  .bebidas{
     background-color: #D9501E;   
     border-radius: 10px;
+    background-image: url(../imagens/bebidas.jpg);
+    background-attachment: fixed;
+    background-position: center right;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 h1{
     text-align: center;
