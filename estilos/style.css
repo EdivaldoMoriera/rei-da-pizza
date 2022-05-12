@@ -17,20 +17,18 @@ header{
   section{
       padding: 10px;
   }
-  h2, h5{
-    font-weight: bolder;
-    text-align: center;
-    margin-bottom: 20px;
-  }
- 
-
 .ham{
     background-color: #F2A922;
     border-radius: 10px;
+    background-image: url(../imagens/humbuger.jpg);
+    background-attachment: fixed;
+    background-position: center right;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .pizza{
     background-attachment: fixed;
-     background-image: url(../imagens/rei.png);
+     background-image: url(../imagens/rei-da-pizza.jpg);
      background-position: center right;
      background-repeat: no-repeat;
      background-size: cover;
