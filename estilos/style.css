@@ -2,17 +2,20 @@
     margin: 0px;
     padding: 0px;
 }
+@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700&display=swap');
+
 header{
     background-image: linear-gradient(to right, #F2A922,#D9501E );
     box-shadow: inset 6px 6px 13px rgba(0, 0, 0, 0.583);
     border-radius: 10px;   
     text-align: center;
 }
-  section> p {
+  .pizza {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 0.9em;
     font-weight: bolder;
-    color: teal;
+    font-family:'Passion One', cursive;
+   color: rgba(10, 1, 1, 0.885);
     text-align: justify;
     margin-left: 20px;
   }
@@ -54,8 +57,9 @@ h1{
 h5{
     font-weight: bolder;
     margin-left: 20px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Passion One', cursive;
     padding-bottom: 20px;
+    color: rgba(10, 1, 1, 0.885);
 }
 footer >p{
     background-color: rgba(54, 59, 47, 0.692);
