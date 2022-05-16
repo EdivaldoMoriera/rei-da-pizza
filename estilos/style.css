@@ -21,6 +21,9 @@ header{
       color: white;
 
   }
+  #ham{
+      color: white
+  }
 .ham{
     background-color: #F2A922;
     border-radius: 10px;
