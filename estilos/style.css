@@ -16,12 +16,10 @@ header{
     text-align: justify;
     margin-bottom: 10px;
   }
-  section{
-      padding: 10px;
-  }
 
   p{
       color: white;
+      
       
 
   }
@@ -34,7 +32,7 @@ header{
     background-repeat: no-repeat;
     background-size: cover;
     margin-bottom: 10px;
-}
+    }
 .pizza{
     background-attachment: fixed;
      background-image: url(../imagens/rei-da-pizza.jpg);
