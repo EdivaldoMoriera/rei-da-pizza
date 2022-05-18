@@ -19,12 +19,6 @@ header{
     padding-bottom: 20px;
   }
 
-  p{
-      color:white;
-      
-      
-
-  }
 .ham{
     background-color: #F2A922;
     border-radius: 10px;
@@ -45,6 +39,8 @@ header{
      background-size: cover;
      border-radius: 10px;
  }
+ 
+ 
  .bebidas{
     background-color: #D9501E;   
     border-radius: 10px;
@@ -66,19 +62,24 @@ h1{
     color: white;
 }
 h4{
-    color: white;
+    color:white;
     padding-left: 20px;
-
-
 
 }
 p{
     font-weight: bolder;
     margin-left: 20px;
     padding-bottom: 20px;
-
+    color:white;
 }
-
+#texto > p:hover{
+    color: black;
+    font-style: italic;
+}
+#texto > h4:hover{
+    color: black;
+    font-style: italic;
+}
 footer >p{
     text-align: center;
     color: white;
@@ -96,18 +97,12 @@ footer >p{
 .rodape >p, a{
     text-decoration: none;
     text-align:justify;
-    padding-bottom: 0px;
     
 }
 .rodape a:after{
     content: '\1F517';
   }
-  #email{
-      padding-top:0px;
-      font-size: 0.8em;
-  }
   
-   
 
 .whatsapp-link {
     position: fixed;
