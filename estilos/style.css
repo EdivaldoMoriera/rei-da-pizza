@@ -64,28 +64,79 @@ h1{
 h4{
     color:white;
     padding-left: 20px;
-
 }
 p{
     font-weight: bolder;
     margin-left: 20px;
     padding-bottom: 20px;
     color:white;
+
 }
-#texto > p:hover{
-    color: black;
-    font-style: italic;
+.mista:hover{
+    background-color: red;
+    border-radius: 10px;
 }
-#texto > h4:hover{
-    color: black;
-    font-style: italic;
+.calabresa:hover{
+    background-color: red;
+    border-radius: 10px;
 }
+.mussarela:hover{
+    background-color: red;
+    border-radius: 10px;
+}
+.portuguesa:hover{
+    background-color: red;
+    border-radius: 10px;
+}
+.queijo:hover{
+    background-color: red;
+    border-radius: 10px;
+}
+.frango:hover{
+    background-color: red;
+    border-radius: 10px;
+}
+.charque:hover{
+    background-color: red;
+    border-radius: 10px;
+}
+.m-mista:hover{
+    background-color: red;
+    border-radius: 10px;
+}
+.m-calabresa:hover{
+    background-color: red;
+    border-radius: 10px;
+}
+.m-mussarela:hover{
+    background-color: red;
+    border-radius: 10px;
+}
+.m-portuguesa:hover{
+    background-color: red;
+    border-radius: 10px;
+}
+.m-portuguesa:hover{
+    background-color: red;
+    border-radius: 10px;
+}
+.m-queijo:hover{
+    background-color: red;
+    border-radius: 10px;
+}
+.m-frango:hover{
+    background-color: red;
+    border-radius: 10px;
+}
+
 footer >p{
     text-align: center;
     color: white;
-    padding: 10px;
-
-    
+    padding: 10px;   
+}
+.m-charque:hover{
+    background-color: red;
+    border-radius: 10px;
 }
 .rodape{
 
