@@ -91,10 +91,12 @@ footer >p{
 }
 .rodape >p, a{
     text-decoration: none;
-    text-align: center;
- 
+    text-align:justify;
 }
-
+.rodape a:after{
+    content: '\1F517';
+  }
+  
    
 
 .whatsapp-link {
