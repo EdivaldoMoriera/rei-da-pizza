@@ -88,7 +88,15 @@ footer >p{
     background-color: #D9501E;
     background-image: linear-gradient(to right, #F2A922,#D9501E );
     margin-bottom: 10px;
-
+}
+.rodape >p, a{
+    text-decoration: none;
+    text-align: center;  
+    
+}
+.rodape > a:after{
+    color: red;
+   
 }
 .whatsapp-link {
     position: fixed;
