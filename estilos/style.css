@@ -16,6 +16,7 @@ header{
     text-align: justify;
     margin-bottom: 10px;
     padding-right: 10px;
+    padding-bottom: 20px;
   }
 
   p{
@@ -32,8 +33,9 @@ header{
     background-position: center right;
     background-repeat: no-repeat;
     background-size: cover;
-   padding-bottom: 10px;
+   padding-bottom: 20px;
    margin-bottom: 10px;
+
     }
 .pizza{
     background-attachment: fixed;
@@ -52,6 +54,7 @@ header{
     background-repeat: no-repeat;
     background-size: cover;
     margin-bottom: 10px;
+    padding-bottom: 20px;
 }
 h1{
     text-align: center;
@@ -92,6 +95,7 @@ footer >p{
 .rodape >p, a{
     text-decoration: none;
     text-align:justify;
+    
 }
 .rodape a:after{
     content: '\1F517';
