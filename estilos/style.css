@@ -91,13 +91,12 @@ footer >p{
 }
 .rodape >p, a{
     text-decoration: none;
-    text-align: center;  
-    
+    text-align: center;
+ 
 }
-.rodape > a:after{
-    color: red;
+
    
-}
+
 .whatsapp-link {
     position: fixed;
     width: 60px;
