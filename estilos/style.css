@@ -95,10 +95,15 @@ footer >p{
 .rodape >p, a{
     text-decoration: none;
     text-align:justify;
+    padding-bottom: 0px;
     
 }
 .rodape a:after{
     content: '\1F517';
+  }
+  #email{
+      padding-top:0px;
+      font-size: 0.8em;
   }
   
    
